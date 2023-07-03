@@ -148,5 +148,14 @@ void main() {
   //   print("num2 is greater then num1");
   //  }
 
-  
+  //  class 3 
+//  int number = 25;    //1
+//  print(number%2);
+
+//    int number = 22;     //2
+// if (number%2==0){
+//   print("even number");
+// }else{
+//    print("odd number");
+//   }
 }
