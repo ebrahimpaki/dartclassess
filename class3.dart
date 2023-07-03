@@ -26,4 +26,5 @@ void main(){
     String r = "jub bhi hum git se kisi durse system mai file save kre ge us ka tariqa ye hai";
     String s = "first cmd ya git bach mai (cd desktop) jaha file save krni hai location";
     String t =   "second (git clone) or link copy kr k past krna hai cmd ya git bach mai";
+    print(r+s+t);
 }
