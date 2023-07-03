@@ -17,7 +17,8 @@ void main(){
   String m =("project ko update krne ka tariqa");
   String n = """jab kisi file ko change kre ge to m likha hua aay ga or new file add kre ge to a
               likha hua a jaye ga""";
-  String o = "git commit -m creat class 3.dart & update class2.dart" ;
-  String p =  "git push     update krne k liye pura push -u nahi likhna q k branch pata hai isko ";
- print(m+n+o+p);
+  String o =  "git add .";
+  String p = "git commit -m create class3.dart & update class2.dart" ;  //-m k baad commit inverted comma mai likhna haiadd
+  String q =  "git push     update krne k liye pura push -u nahi likhna q k branch pata hai isko ";
+ print(m+n+o+p+q);
 }
